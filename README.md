@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Smart
-- 👀 I’m interested in html,css,python,Typescript,Node.js,Al and Ml
+- 👀 I’m interested in html,css,python,Typescript,Node.js,React,Al and Ml
 - 🌱 I’m currently pursing Bachelor Of Science In Computer Science at GTUC
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 I'm looking for help with mentors to guide me on my programming journey and socialize with people
